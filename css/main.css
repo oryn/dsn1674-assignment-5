@@ -1,0 +1,180 @@
+html{
+	box-sizing: border-box;
+	font-family: 'Merriweather', serif;}
+
+*, *::before, *::after {
+	box-sizing: inherit;}
+
+body{
+	margin: 0;}
+
+header{
+	background-color: #cd5b34;
+	text-align: center;
+	display:block;
+	padding: .25em;}
+
+h1{
+	color: white;
+	font-weight: bolder;}
+
+h2{
+	background-color: #d98156;
+	padding: 1.75rem;
+	text-align: center;
+	font-weight: bolder;
+	color: white;
+	clear: both;
+	margin-bottom: 0;
+	}
+
+.famous{
+	padding: 1.75rem;
+	color: black;
+	background-color: white;
+	text-align: center;
+	font-weight: bolder;
+	clear: both;
+	margin: 0;
+	}
+
+ol{
+	display: inline-block;
+	padding: 0}
+
+li{
+	display: inline-block;
+	list-style: none;
+	color: white;}
+
+.inset-left{
+	float: left;
+	clear: left;
+	margin: 10px;
+	width: 40%;
+	border: 0.125em solid #cccccc;}
+
+.inset-right{
+	float: right;
+	clear: left;
+	margin: 10px;
+	width: 40%;
+	border: 0.125em solid #cccccc;}
+
+.inset-right-2{
+	float: right;
+	clear: right;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	margin-left: 10px;
+	width: 40%;
+	border: 0.125em solid #cccccc;}
+
+.inset-center{
+	width: 100%;
+	margin: 0;}
+
+.inset-right-3{
+	width: 50%;
+	margin: 0;
+	clear:left;
+	float:left;
+	}
+
+.inset-right-4{
+	width: 50%;
+	margin: 0;
+	float: right;
+	clear: right;}
+
+.rice{
+	width: 50%;
+	float: right;
+	text-align: center;}
+
+.oats{
+	width:50%;
+	float: left;
+	text-align: center;}
+
+.inset-left-2{
+	width: 30%;
+	float: left;
+	clear: both;
+}
+
+.inset-left-3{
+	width: 40%;
+	float: left;
+	clear: both;
+}
+
+.inset-left-4{
+	width: 30%;
+	float: left;
+	clear: both;
+}
+
+div{
+	padding-left: 1em;
+	font-size: 1.25em;}
+
+figcaption {
+   color: #Fff;
+   background-color: #d98156;
+   padding: 0;
+   margin: 0;
+   font-style: italic;
+   text-align: center;}
+
+figure{
+   padding: 0;
+   margin: 0;
+   width: 100%;
+   border: 0;
+   background-color: #d98156;}
+
+nav li {
+   float: left;
+   display: inline-block;}
+
+a {
+  text-decoration: none;
+  color: white;}
+
+nav li{
+  width: 33.3%;
+  border: 1px solid #a33f3a;
+  padding: 0.5em;
+  text-align: center;}
+
+nav ol{
+  overflow: hidden;
+  margin: auto;
+  width: 100%;
+  padding: 0;}
+
+a:hover{
+	color:#cc3865;}
+
+img{
+
+	width: 40%}
+
+footer{
+	background-color: #cd5b34;
+	padding: 0.75em;
+	color: #deab99;
+	text-align: center;}
+
+.grain{
+	width: 10%;
+	padding-top: 1em;
+	border: none;
+	float: left;}
+
+.grain2{
+	width: 10%;
+	padding-top: 1em;
+	border: none;
+	float: right;}
